@@ -17,12 +17,9 @@ Category your project belongs to: Crypto Community, Presale project and token
 Details: \
 Stage of your project (just an idea, already in progress, proof of concept or prototype): Just Idea  \
 Main goals and planned approach:  \
-Does the project roadmap fit broadly into the FunctionX/PundiX Chain roadmap? Yes, our project would play the role of for crypto project. \
-Online resources (website, research papers, articles, blog posts, GitHub, etc): Please visit our official website at http://alphaday.com/. You can also visit our blog at https://blog.alphaday.com/ and our Github Repo at https://github.com/AlphadayHQ.  \
-Mockups/designs of any UI components Data models / API specifications of the core functionality: Please refer to the live version of our app: https://app.alphaday.com/  \
-An overview of the technology stack to be used: Alphaday is a React-Typescript dashboard on the frontend using a Python-Django backend built on distributed infrastructure with Postgres and Redis Databases. \
-Documentation of core components, protocols, architecture, etc. to be deployed: Please view our pitch deck as a reference point to this: https://bit.ly/Alphadaydeck  \
-What your project is not or will not provide or implement: We are a data aggregator, and unique in what we are trying to provide the market. What we will not do is compete with the likes of Dune, as they are data generators. What we are building will simplify things for the end users, and our product augments and further propagates the work of data creators.
+An overview of the technology stack to be used: Typescript, Java, web3js, ether, fx chain testnet
+Documentation of core components, protocols, architecture, etc. to be deployed: we will provid later 
+What your project is not or will not provide or implement: We are unique in crypto project facilitator and interconnect between investor and trader . What we will not do is compete with the likes of swap https://fx-swap.io/, as we will collaborate with them. What we are building will gather investor and trader through crypto project, community and AMA.
 
 **Team profile**
 
@@ -39,7 +36,7 @@ Hasan, Senior Backend Developer \
 Fauzi, Backend Developer \
 Iqbal Pratomo, Android Developer \
 Jumilar, Crypto Quality Assurance \
-Fifi, Marketing
+Dera Kristianti, Marketing
 
 Contact Name: Argan \
 Contact Email: arganjava@gmail.com  \
@@ -54,6 +51,10 @@ W’ve been involved in the crypto community since 2021 and use experiment Polyg
 
 My co-founder Muslich has also been involved as a Trader and crypto business ideas.
 
+Project Experiences:
+1. Music platform with ipfs and signature trustwallet (https://app.alunamusik.com/ , https://publisher.alunamusik.com/)
+2. Built food marketplace base on IPFS storage https://customer.enakeats.com/2c938082843961d701843cf44dc2000e/1
+
 Team Code Repos: NO\
 
 Team member’s individual repos: will discuss later\
@@ -61,69 +62,84 @@ Team member’s individual repos: will discuss later\
 **Ecosystem Fit/Impact**
 
 Details: \
-Many blockchain network will popular because of ecosystem and solve problem case, blockchain without usecase is nothing, that's why we build lauchpad to make big impact for the network and make profit for those network by taking transaction fee and many user to buy fx token. 
+Many blockchain network will popular because of ecosystem and solve problem case, blockchain without usecase is nothing, that's why we build launchpad to make big impact for the network and make profit for those network by taking transaction fee and many users or traders to buy fx token. 
 
-Having launchpad on FX Network stakeholders (i.e. users, developers, investors) to easily stay up to date on Function X Network ecosystem updates, see the latest news and developments, do research and stay engaged. In general users who can track their favourite projects more easily stay more engaged with the project which in turn supports user retention. 
+Having launchpad on FX Network stakeholders (i.e. users, developers, investors) to easily get latest for startup project, see the latest news and developments, do research and stay engaged. In general users can join or invest for new IDO/ICO projects safely and easier as holders fund is protected by our system.
 
-We’ve done market research on this and currently people’s regular crypto workflows consist of jumping from one browser tab to another to check prices, read news, follow twitter, participate in discussions . A typical crypto user will have 6 to 10 open tabs at any given time and people have referred to Alphaday as the ‘tab killer’ because all the information you’d need across all your different tabs is available in Alphaday. In this sense, we do not have any direct competitor that can provide 50 different types of services and functionality within one dashboard.
+Are there any other projects similar to yours in other EVM/Cosmos ecosystem? No, but we will create new platform more secure, easier and much benefit and features\
 
-Are there any other projects similar to yours in other EVM/Cosmos ecosystem? \
-We’ve done market research on this and currently people’s regular crypto workflows consist of jumping from one browser tab to another to check prices, read news, follow twitter, participate in discussions . A typical crypto user will have 6 to 10 open tabs at any given time and people have referred to Alphaday as the ‘tab killer’ because all the information you’d need across all your different tabs is available in Alphaday. In this sense, we do not have any direct competitor that can provide 50 different types of services and functionality within one dashboard.
-
-Development status: \
-Product is Live in Beta version at : https://app.alphaday.com/ \
-Team Github Repository: https://github.com/AlphadayHQ 
+Development status: Still Idea\
 
 Details: \
-Please refer to our official blog page: https://blog.alphaday.com/ \
-We will also publish the initial deployment of the new Function X Network dashboard on all social media platforms.
+Please refer to our official blog page: No \
 
 Associated costs
 
-1,200 USDC upfront costs for development including integrating the discussion forums, blog post, social feed, jobs listing, TVL and other on-chain metrics.
+15,000 USDT upfront costs for development including for launchpad MVP, blog medium post, content social feed,TVL(Total value locked) and crypto data metrics.
 
-100 USDC per month for 12 months for maintenance including having an Alphaday content analyst quality-checking the dashboard every day and ensuring the Calendar widget is up-to-date with latest Function X Network events, all news mentions across the internet are captured by the dashboard, any updates not automatically captured by the Alphaday aggregator engine is manually added to the board, and other maintenance tasks.
+6000 USDT per month for 12 months for maintenance including having an launchpad content analyst quality-checking the dashboard every day and ensuring the Calendar widget is up-to-date with latest Function X Network events, all news mentions across the internet are captured by the dashboard, any updates automatically captured by the launchpad platform engine and add to dashboard, and other maintenance tasks.
 
-There are no additional costs required for the development and deployment of the dashboard. Furthermore, no foreseeable additional risks to Function X Network are associated with the creation of the Alphaday Dashboard.
+1000 USDT for server maintenance cloud provider either use AWS or GCP for starter
+
+There are no additional costs required for the development and deployment of the dashboard. Furthermore, no foreseeable additional risks to Function X Network are associated with the creation of the Launchpad platform.
 
 **Development Roadmap**
 
 Overview
 
-Total Estimated Duration: 2 months for initial deployment, 12 months of maintenance. \
-FullTime Equivalent (FTE): 1 FTE \
-Total Costs: 2,400 USDC
+Total Estimated Duration: 3 months for MVP initial deployment, 12 months of maintenance support by team and 12 months cloud server. \
+FullTime Equivalent (FTE): 5.5 FTE \
+Total Costs: 6000 USDT per month
 
-Milestone 1 — Initial Development and Deployment of Dashboard
+Milestone 1 — Initial Development and MVP
 
-Estimated duration: 2 month \
-FTE: 0.5 \
-Costs: 1,200 USDC
+Estimated duration: 3 months for MVP \
+FTE: 5.5 FTE \
+Costs: 6000 USDT per month
 
 Number | Deliverable | Specification  \
-1 | Blog Post | The latest Function X Network official announcements and blog post content \
-2 | News Aggregator | A feed of all news mentions of Function X Network from coindesk, cointelegraph and 20+ other news sources aggregated from across the internet \
-3 | Calendar / Events | A calendar containing all Function X Network events including Function X Network Governance votes, meetups, hackathons with Function X Network bounties, AMAs \
-4 | Podcasts | Podcast feed containing the latest appearances and interviews given by Function X Network team members \
-5 | Youtube Stream | Youtube stream containing educational Function X Network content. \
+1 | Token Creation UI | Users can select the token type option \
+2 | Sale Token Stage | Will initial with Stage token creation, private sale (KYC if needed), public sale, launch on list of board \
+3 | Airdrop token | Give aways token for all participants who complete the tasks  \
+4 | Podcasts | Podcast feed containing the latest appearances and interviews with Launchpad team members \
+5 | Whitelist project | Prevent scam project and ensure no rugpull. \
 6 | Governance Forum | Integration with Function X Network Forum to show the latest and trending discussion topics \
 7 | Social Media | Twitter, Telegram, & Discord Integration to show a feed of latest discussions \
-8 | Other Data / FAQ | FAQ / Function X Support, Function X Docs, FX tokenomics information \
-9 | Data Analytics | Function X Network metrics including TVL, treasury composition and other metrics pulled in from Dune Analytics \
-10 | Ecosystem | Links and descriptions of Dapps and other platforms within the Function X Network ecosystem (i.e. MarginX and FXswap) \
-11 | FX Swap Data | FX Swap TVL (through Defillama integration) and other FX data (through Zapper integration) \
-12 | Analytics | Function X metrics including cumulative FX staked, DEX volume, and other metrics pulled in from Dune Analytics.
+9 | Dashboard Data Analytics | Function X Network metrics including TVL, treasury composition and other metrics pulled in from Dune Analytics \
+11 | Internal dashboard | Launchpad team can manage incoming project approval or reject process
 
 Milestone 2 — Maintenance and Curation
 
 Estimated Duration: 12 months, continuous \
-FTE: 0.5 \
-Costs: 1,200 USDC
+FTE: 5.5 \
+Costs: 6000 USDT for team and 1000 USDT for cloud server
 
 Future plans: \
-If we get a grant we will start working on the board immediately and we should have it ready within 2 months. Once we’ve launched the board, we will do user interviews and feedback sessions to tune the dashboard. We will continue this process of iterating, deploying, and collecting feedback continuously to build a dashboard that Function X stakeholders truly love to use.
+If we get a grant we will start working on the board immediately and we will develop it a week later. Once we’ve launched the board, we will do user interviews and feedback sessions to tune the dashboard. We will continue this process of iterating, deploying, and collecting feedback continuously to build a dashboard that Function X stakeholders truly love to use. we will report development progress 2 weekly so that FX stake holders can monitor our activities
 
-For further details on our roadmap please view our Pitch Deck: https://bit.ly/Alphadaydeck 
+For further details on our roadmap please view our Pitch Deck:
 
-Details: \
-We are in the process of applying for grants to further develop our app and dashboard. Some projects (such as Aave, Dfinity, Zcash, and others) have already approved to fund us and we are currently in the process of building their dashboards.
+MVP Features :
+1. Private sale with KYC
+2. Public presale optional KYC
+3. Token creation ERC20 with many option like can mint (disabled till vesting period), burn, deflation, pause and blacklist address
+4. List token pad with useful information
+5. Airdrop token
+6. Bridge on multichain eth to fx chain
+
+FX Launchpad IDO Process :
+1. Fx Coin holders can take part in the Presale 
+2. Ability whitelist public presale project 
+3. Liquidity locked by the Solidity Smart Contract. 
+4. Tokens will be locked by termination to prevent rugpull 
+5. Approval process need kyc probably \
+6. Once the Soft capital is reached, the project will be listed. 
+7. TBA 
+
+Benefit :
+1. Anti rugpull
+2. Secure smart contract
+3. Vesting option
+4. LP and Token is locked
+5. Lowest fee
+6. Audited and Verified token
