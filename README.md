@@ -123,9 +123,12 @@ MVP Features :
 1. Private sale with KYC
 2. Public presale optional KYC
 3. Token creation ERC20 with many option like can mint (disabled till vesting period), burn, deflation, pause and blacklist address
-4. List token pad with useful information
-5. Airdrop token
-6. Bridge on multichain eth to fx chain
+4. Token sale stage (private sale, public presale, public sale and launch)
+5. List token pad with useful information
+6. Airdrop token
+7. Bridge on multichain eth to fx chain
+8. Internal Dahboard
+9. External Project Owner Dashboard
 
 FX Launchpad IDO Process :
 1. Fx Coin holders can take part in the Presale 
