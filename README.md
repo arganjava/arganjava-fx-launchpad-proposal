@@ -15,11 +15,14 @@ Category your project belongs to: Crypto Community, Presale project and token
 **Project Description**
 
 Details: \
-Stage of your project (just an idea, already in progress, proof of concept or prototype): MVP already in progress  \
+Stage of your project (just an idea, already in progress, proof of concept or prototype): MVP already in progress https://pundi.sale/  \
 Main goals and planned approach:  \
-An overview of the technology stack to be used: Typescript, Java, web3js, ether, fx chain
-Documentation of core components, protocols, architecture, etc. to be deployed: we will provid later 
-What your project is not or will not provide or implement: We are unique in crypto project facilitator and interconnect between investor and trader . What we will not do is compete with the likes of swap https://fx-swap.io/, as we will collaborate with them. What we are building will gather investor and trader through crypto project, community and AMA.
+An overview of the technology stack to be used: Typescript, Java, web3js, ether, fx chain, solidity smart contract
+Documentation of core components, protocols, architecture, etc. to be deployed: we will provide it later 
+
+What your project is not or will not provide or implement: We are unique in crypto project facilitator and interconnect between investor and trader. 
+
+What we will not do is compete with the likes of swap https://fx-swap.io/, as we will collaborate with them. What we are building will gather investor and trader through crypto project, community and AMA.
 
 **Team profile**
 
@@ -126,6 +129,7 @@ MVP Enhancement Features :
 7. Internal Dahboard
 8. External Project Owner Dashboard
 9. Liquidity Lock
+10. Integrate with https://fx-swap.io
 
 FX Launchpad IDO Process :
 1. Fx Coin holders can take part in the Presale 
